@@ -1,0 +1,15 @@
+{
+    "skinport": {
+        "CLIENT_ID": "YOUR_SKINPORT_CLIENT_ID",
+        "CLIENT_SECRET": "YOUR_SKINPORT_CLIENT_SECRET"
+    },
+    "discord": {
+        "DISCORD_TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+        "CHANNEL_ID": 111111111111111111
+    },
+    "settings": {
+        "DISCOUNT": 20,
+        "MIN_PRICE": 2,
+        "MAX_PRICE": 1000
+    }
+}
